@@ -158,9 +158,9 @@ The Opportunity Score identifies favorable market conditions by combining:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/equity-market-analytics.git
+git clone https://github.com/yourusername/Fred_Equity_Yield.git
 
-cd equity-market-analytics
+cd Fred_Equity_Yield
 ```
 
 ### Install Dependencies
